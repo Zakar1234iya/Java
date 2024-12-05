@@ -1,7 +1,6 @@
 public class AlfredTest {
 
     public static void main(String[] args) {
-        // Make an instance of Alfredbot
         AlfredQuotes alfredBot = new AlfredQuotes();
         
         String testGreeting = alfredBot.basicGreeting();
